@@ -1,0 +1,8 @@
+.indigo {
+  height: 20vw;
+  background-color: var(--bs-indigo);
+}
+
+h1 {
+  color: var(--bs-white);
+}
